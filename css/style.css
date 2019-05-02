@@ -4,7 +4,7 @@ body {
 }
 
 body {
-    background: url('/img/hero.jpg') no-repeat center center fixed;
+    background: url('../img/hero.jpg') no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
     height: 100%;
