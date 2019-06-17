@@ -1,5 +1,5 @@
 let appId = 'c9e5a079383d4d23e69d4bd0051bc077';
-let units = 'imperial';
+let units = 'imperiall';
 let searchMethod;
 
 function getSearchMethod(searchTerm) {
