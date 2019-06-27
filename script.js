@@ -1,6 +1,6 @@
 let appId = 'c9e5a079383d4d23e69d4bd0051bc077';
 let units = 'imperial';
-let searchMethod;
+let searchMethodd;
 
 function getSearchMethod(searchTerm) {
     if(searchTerm.length === 5 && Number.parseInt(searchTerm) + '' === searchTerm)
